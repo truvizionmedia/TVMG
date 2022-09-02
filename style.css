@@ -24,13 +24,13 @@ li a:hover {
 
 
 body {
-	background-image: url("Andrew Vip Gapelii.jpeg");
+	background-image: url("lou-batier-5EoWFa_Htdo-unsplash.jpg");
 	 background-repeat: no-repeat;
 	 background-size: cover;
 }
 
 h1 {			
-	color: black;
+	color: #FFD833;
 	text-align: center;
 	text-shadow: ;
 	margin-bottom: 400px;
@@ -95,6 +95,15 @@ audio {
 	height: 600px;
 }
 
+#learn {
+	background-color: #FFD833 ;
+	margin: 10px;
+}
+
 #playtext {
 	color: white;
+}        VHBJ
+
+#contact {
+	background-image: url("");
 }
