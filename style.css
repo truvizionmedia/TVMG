@@ -1,3 +1,7 @@
+.topsit {
+	margin: 10px;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -34,6 +38,7 @@ h1 {
 	text-align: center;
 	text-shadow: ;
 	margin-bottom: 400px;
+	font-family: 'Oswald', sans-serif;
 }
 
 img {
@@ -98,6 +103,9 @@ audio {
 #learn {
 	background-color: #FFD833 ;
 	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+	height: 70px;
+	width: 200px;
 }
 
 #playtext {
@@ -106,4 +114,29 @@ audio {
 
 #contact {
 	background-image: url("");
+}
+
+p {
+	color: white;
+	margin: 10px;
+}
+
+h2 {
+	color: white;
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+	color: #FFD833;
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.footlogo {
+	height: 4px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	padding: 5px;
+	margin-right: 1000px;
 }
