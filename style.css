@@ -28,7 +28,7 @@ li a:hover {
 
 
 body {
-	background-image: url("lou-batier-5EoWFa_Htdo-unsplash.jpg");
+	background: url("aniestla-_QelU4MRQsY-unsplash (1).jpg");
 	 background-repeat: no-repeat;
 	 background-size: cover;
 }
@@ -110,10 +110,13 @@ audio {
 
 #playtext {
 	color: white;
-}        VHBJ
+}       
 
 #contact {
-	background-image: url("");
+	background-image: url("clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+	background-size: cover;
+	height: 900px;
+	border: 2px solid white;
 }
 
 p {
