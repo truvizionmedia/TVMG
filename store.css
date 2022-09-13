@@ -1,0 +1,157 @@
+.topsit {
+	margin: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FFD833;
+}
+
+li {display: inline;
+	float: left;
+}
+
+li a {display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+}
+
+li a:hover {
+	background-color: black;
+	color: white;
+}
+
+
+body {
+	background: url("aniestla-_QelU4MRQsY-unsplash (1).jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+h1 {			
+	color: #FFD833;
+	text-align: center;
+	text-shadow: ;
+	margin-bottom: 400px;
+	font-family: 'Oswald', sans-serif;
+}
+
+img {
+	height: 75px;
+	width: 75px;
+	margin-bottom: 5px;
+}
+
+input {
+	width: 35%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	background-color: black;
+	color: white;
+	border: none;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 15%;
+
+}
+
+form {
+	text-align: center;
+	margin-top: 350px;
+
+}
+
+footer {
+	text-align: center;
+	background-color: #FFD833;
+	margin-top: 250px;
+	height: 100px;
+}
+
+label {
+	color: white;
+}
+
+audio {
+	height: 30px;
+}
+
+#purchase {
+	background-color: black ;
+	color: white;
+}
+
+#media {
+	background-color: black;
+	border: 4px solid #FFD833 ;
+	background-image: url("c-d-x-PDX_a_82obo-unsplash.jpg");
+	background-size: cover;
+	height: 750px;
+	margin-top: 100px;
+}
+
+#learn {
+	background-color: #FFD833 ;
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+	height: 70px;
+	width: 200px;
+}
+
+#playtext {
+	color: white;
+}       
+
+#contact {
+	background-image: url("clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+	background-size: cover;
+	height: 900px;
+	border: 2px solid white;
+}
+
+p {
+	color: white;
+	margin: 10px;
+}
+
+h2 {
+	color: white;
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+	color: #FFD833;
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.footlogo {
+	height: 4px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	padding: 5px;
+	margin-right: 1000px;
+}
+
+.container [
+	height: 600px ;
+	width: 1000px;
+
+]
+
+h5 {color: black;}
+
+.tracks {
+}
