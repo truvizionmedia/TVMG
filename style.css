@@ -97,7 +97,7 @@ audio {
 	border: 4px solid #FFD833 ;
 	background-image: url("c-d-x-PDX_a_82obo-unsplash.jpg");
 	background-size: cover;
-	height: 600px;
+	height: 725px;
 }
 
 #learn {
@@ -143,3 +143,11 @@ h3 {
 	padding: 5px;
 	margin-right: 1000px;
 }
+
+.container [
+	height: 600px ;
+	width: 1000px;
+
+]
+
+h5 {color: black;}
