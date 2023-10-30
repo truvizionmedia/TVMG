@@ -1,13 +1,9 @@
-.topsit {
-	margin: 10px;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #FFD833;
+	background-color: black;
 }
 
 li {display: inline;
@@ -15,36 +11,42 @@ li {display: inline;
 }
 
 li a {display: block;
-		color: white;
+		color: #F1C40F;
 		text-align: center;
 		padding: 14px 16px;
 		text-decoration: none;
+		font-family: 'Bebas Neue', cursive;
+		font-size: 25px;
 }
 
 li a:hover {
-	background-color: black;
-	color: white;
+	background-color: #F1C40F;
+	color: black;
 }
 
 
 body {
-	background: url("aniestla-_QelU4MRQsY-unsplash (1).jpg");
+	background-image: url("tvmg.jpg");
 	 background-repeat: no-repeat;
 	 background-size: cover;
+	 margin-top: 1000px;
+	 margin-bottom: 100px;
+	 opacity:;
 }
 
 h1 {			
-	color: #FFD833;
+	color: #F1C40F ;
 	text-align: center;
 	text-shadow: ;
 	margin-bottom: 400px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 35px;
 }
 
 img {
-	height: 75px;
-	width: 75px;
-	margin-bottom: 5px;
+	height: 150px;
+	width: 150px;
+	margin-bottom: 50px;
 }
 
 input {
@@ -53,6 +55,7 @@ input {
 	margin: 8px 0px;
 	box-sizing: border-box;
 }
+
 
 input[type=submit] {
 	background-color: black;
@@ -74,81 +77,59 @@ form {
 
 footer {
 	text-align: center;
-	background-color: #FFD833;
-	margin-top: 250px;
+	background-color: black;
+	color: white;
+	margin-top: 700px;
 	height: 100px;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+	padding: 5px;
 }
 
 label {
 	color: white;
 }
 
-audio {
-	height: 30px;
-}
-
-#purchase {
-	background-color: black ;
-	color: white;
-}
-
-#media {
-	background-color: black;
-	border: 4px solid #FFD833 ;
-	background-image: url("c-d-x-PDX_a_82obo-unsplash.jpg");
-	background-size: cover;
-	height: 750px;
-	margin-top: 100px;
-}
-
-#learn {
-	background-color: #FFD833 ;
+h2 {
 	margin: 10px;
-	font-family: 'Oswald', sans-serif;
-	height: 70px;
-	width: 200px;
-}
+	margin-bottom: 250px;
+	color: #F1C40F;
+	text-shadow: 2px 2px 1px  solid black;
+	font-family: 'Bebas Neue', cursive;
 
-#playtext {
-	color: white;
-}       
-
-#contact {
-	background-image: url("clark-tibbs-oqStl2L5oxI-unsplash.jpg");
-	background-size: cover;
-	height: 900px;
-	border: 2px solid white;
 }
 
 p {
 	color: white;
-	margin: 10px;
+	font-family: 'Bebas Neue', cursive;
 }
 
-h2 {
+.listen {
+	margin-top: 300px;
+	background-color:;
+	padding: 10px;
+%;
+}
+
+
+button {
+	padding-left: 10px;
+	margin-right: 10px;
+	background-color: red;
 	color: white;
-	margin: 10px;
-	font-family: 'Oswald', sans-serif;
+	height: 50px;
+	border-radius:  20px;
 }
 
-h3 {
-	color: #FFD833;
-	margin: 10px;
-	font-family: 'Oswald', sans-serif;
+p { color: red; 
+	text-shadow: 1px 1px 1px black;
+	font-size: 27px;
 }
 
-.footlogo {
-	height: 4px;
-	margin-bottom: 2px;
-	margin-top: 2px;
-	padding: 5px;
-	margin-right: 1000px;
+.g-brooks {
+	color: #1F96E9 ;
 }
 
-.container [
-	height: 600px ;
-	width: 1000px;
-
-]
-
-h5 {color: black;}
+.container {
+	height: 500px;
+}
